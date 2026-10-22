@@ -1,4 +1,4 @@
 window.BUDGET_CONFIG = {
-  url: "YOUR_SUPABASE_PROJECT_URL",
-  anonKey: "YOUR_SUPABASE_PUBLISHABLE_KEY"
+  url: https://zblrdjcltixkdbmjnlmc.supabase.co,
+  anonKey: sb_publishable_PPrtJQ3I5JYJk9SVXXIj0A_9-tE5kRC
 };
